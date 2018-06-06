@@ -10,7 +10,7 @@ public class HomeController {
 	@RequestMapping("/")
 	@ResponseBody
 	public String index() {
-		return "Eu não acredito";
+		return "eu não acredito";
 	}
 	
 }
